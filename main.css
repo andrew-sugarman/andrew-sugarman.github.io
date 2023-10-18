@@ -41,6 +41,26 @@ button:hover {
   background-color: #0056b3;
 }
 
+.key-personnel-contact-box {
+  background-color: #ffffff;
+  padding: 10px;
+  margin: 10px;
+}
+
+.key-personnel-contact-box h2 {
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.key-personnel-contact-box ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.key-personnel-contact-box li {
+  margin-bottom: 5px;
+}
+
 #resource-list {
   background-color: #fff;
   padding: 20px;

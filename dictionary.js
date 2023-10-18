@@ -9,3 +9,7 @@ const resources = [
     {name: "Dauphin County Parks and Recreation Department ", county: "Harrisburg", address:"100 Fort Hunter Road, Harrisburg, PA 17110 ", note:"Recreational activities including jogging, festivals, concerts, historic mansion tours; environmental education; parks; maintenance and development technical assistance; recreation technical assistance "},
     {name: "Lebanon Valley Family YMCA - Fitness and Wellness", county: "Lebanon", address:"201 North 7th Street Lebanon, PA 17046 ", note:"Facilities and programs include state-of-the-art wellness center, 3 group fitness studios including a cycling studio, group fitness classes including kids fitness classes, over 80 group fitness classes for all levels, kids corner babysitting while you exercise, water fitness classes, swim lessons, camp, sports, indoor pool, personal training, indoor track, wellness coaching, indoor basketball court, racquetball courts, two gymnasiums, healthy habits seminars, and wi-fi throughout facility. "},
     {name: "West Shore Branch YMCA", county: "West Shore", address:"410 Fallowfield Rd, Camp Hill, PA 17011, United States", note:"Full gym with ellipticals, treadmills, bikes, rowing machines, and pool access. Membership needed but will have full access to any YMCA in the area"},
+]
+
+// //resources to add 
+//https://www.anytimefitness.com/gyms/3099/Lebanon-PA-17046/?utm_source=yelp&utm_medium=local&utm_campaign=gw-always-on&utm_content=BL-organic
