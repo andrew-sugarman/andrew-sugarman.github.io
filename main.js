@@ -9,7 +9,12 @@ const resources = [
     {name: "Dauphin County Parks and Recreation Department ", county: "Harrisburg", address:"100 Fort Hunter Road, Harrisburg, PA 17110 ", note:"Recreational activities including jogging, festivals, concerts, historic mansion tours; environmental education; parks; maintenance and development technical assistance; recreation technical assistance ", contact:"(717) 599-5188"},
     {name: "Lebanon Valley Family YMCA - Fitness and Wellness", county: "Lebanon", address:"201 North 7th Street Lebanon, PA 17046 ", note:"Facilities and programs include state-of-the-art wellness center, 3 group fitness studios including a cycling studio, group fitness classes including kids fitness classes, over 80 group fitness classes for all levels, kids corner babysitting while you exercise, water fitness classes, swim lessons, camp, sports, indoor pool, personal training, indoor track, wellness coaching, indoor basketball court, racquetball courts, two gymnasiums, healthy habits seminars, and wi-fi throughout facility. ", contact:"(717) 273-2691"},
     {name: "West Shore Branch YMCA", county: "West Shore", address:"410 Fallowfield Rd, Camp Hill, PA 17011, United States", note:"Full gym with ellipticals, treadmills, bikes, rowing machines, and pool access. Membership needed but will have full access to any YMCA in the area", contact:"(717) 737-9622"},
+    {name: "Dauphin County Area Agency on Aging - Hershey", county: "Hershey/Hummelstown", address:"410 Fallowfield Rd, Camp Hill, PA 17011, United States", note:"Eligible to Dauphin County residents 60 years old and up and their spouses.
 
+Recreational and social activities which may include board games, cards, exercise, dance, trips, special events and health programs. A hot, nutritious noon meal is available free of charge, with a reservation.
+
+Monday-Friday 8:00am-4:00pm ", contact:"(717) 533-2002"},
+    {name: "B'nai B'rith Senior Center", county: "Harrisburg", address:"130 South 3rd Street, Harrisburg, PA 17102 ", note:"Recreational and social activities which may include board games, cards, exercise, dance, trips, special events and health programs.", contact:"717-232-7516"},
     // Add more resource objects as needed
 ];
 
