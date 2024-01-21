@@ -11,7 +11,12 @@ const resources = [
     {name: "West Shore Branch YMCA", county: "West Shore", address:"410 Fallowfield Rd, Camp Hill, PA 17011, United States", note:"Full gym with ellipticals, treadmills, bikes, rowing machines, and pool access. Membership needed but will have full access to any YMCA in the area", contact:"(717) 737-9622"},
     {name: "Dauphin County Area Agency on Aging - Hershey", county: "Hershey/Hummelstown", address:"410 Fallowfield Rd, Camp Hill, PA 17011, United States", note:"Eligible to Dauphin County residents 60 years old and up and their spouses. Recreational and social activities which may include board games, cards, exercise, dance, trips, special events and health programs. A hot, nutritious noon meal is available free of charge, with a reservation. Monday-Friday 8:00am-4:00pm ", contact:"(717) 533-2002"},
     {name: "B'nai B'rith Senior Center", county: "Harrisburg", address:"130 South 3rd Street, Harrisburg, PA 17102 ", note:"Recreational and social activities which may include board games, cards, exercise, dance, trips, special events and health programs.", contact:"717-232-7516"},
+    {name: "West Shore Recreation Commission", county: "West Shore", address:"507 Fishing Creek Road, Lewisberry, PA  17339", note:"Variety of activities for adult wellness and youth such as martial arts, cardio step, yoga, barre, Pilates, tai chi, and more", contact:"717-920-9515"},
+    {name: "Lenker Park ", county: "West Shore", address:"7555 Manor Dr, West Hanover Township, PA 17112 ", contact:"(717) 724-0083", note:"Nice walking path, basketball courts, tennis courts and exercise equipment for adults"},
+    {name: "Pulpit Rock and the Pinnacle Loop", county: "West Shore", address:"https://www.alltrails.com/trail/us/pennsylvania/appalachian-trail-pinnacle-trail-valley-rim-and-pulpit-rock", note:"Start at Hamburg Reservoir parking lot and follow the gravel road (blue blazed) uphill, looking for the white AT blazes crossing the road. Take the white blazed AT (aka the Valley Rim Trail) to the right. After crossing the creek, you'll see a blue blazed road heading off to the left—this will be your return route. - From the Hiking Project", contact:"https://www.hikingproject.com/trail/7052643/pulpit-rock-and-the-pinnacle"},
     // Add more resource objects as needed
+
+
 ];
 
 const buttons = document.querySelectorAll('button');
