@@ -14,6 +14,8 @@ const resources = [
     {name: "West Shore Recreation Commission", county: "West Shore", address:"507 Fishing Creek Road, Lewisberry, PA  17339", note:"Variety of activities for adult wellness and youth such as martial arts, cardio step, yoga, barre, Pilates, tai chi, and more", contact:"717-920-9515"},
     {name: "Lenker Park ", county: "West Shore", address:"7555 Manor Dr, West Hanover Township, PA 17112 ", contact:"(717) 724-0083", note:"Nice walking path, basketball courts, tennis courts and exercise equipment for adults"},
     {name: "Pulpit Rock and the Pinnacle Loop", county: "West Shore", address:"https://www.alltrails.com/trail/us/pennsylvania/appalachian-trail-pinnacle-trail-valley-rim-and-pulpit-rock", note:"Start at Hamburg Reservoir parking lot and follow the gravel road (blue blazed) uphill, looking for the white AT blazes crossing the road. Take the white blazed AT (aka the Valley Rim Trail) to the right. After crossing the creek, you'll see a blue blazed road heading off to the left—this will be your return route. - From the Hiking Project", contact:"https://www.hikingproject.com/trail/7052643/pulpit-rock-and-the-pinnacle"},
+    {name: "Lebanon Anytime Fitness", county: "Lebanon", address:"2231 Lebanon Valley Mall Lebanon, PA 17042-2568", note:"Affordable gym/fitness center open 24hrs to accommodate busy schedules", contact:"(717) 273-3055"},
+    {name: "Lebanon Fitness Center", county: "Lebanon", address:"1139 Quentin Road, Lebanon, PA 17042", note:"24hr fitness center with variety of classes, personal trainers, and equipment", contact:"717-270-7220"},
     // Add more resource objects as needed
 
 
